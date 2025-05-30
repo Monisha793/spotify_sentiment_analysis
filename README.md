@@ -48,19 +48,7 @@ This project uses **Natural Language Processing (NLP)** to perform **sentiment a
 
 ---
 
-## 📈 Visuals
 
-### 🔹 Sentiment Distribution Bar Plot
-![Sentiment Bar Plot](visuals/barplot.png)  
-*A clear breakdown of sentiment across Spotify reviews.*
-
-### 🔹 Subjectivity vs Polarity
-![Scatter Plot](visuals/scatterplot.png)  
-*How personal (subjective) the reviews are compared to their sentiment.*
-
-### 🔹 Word Cloud of Reviews
-![Word Cloud](visuals/wordcloud.png)  
-*Most frequent words from thousands of reviews.*
 
 ---
 
